@@ -5,7 +5,7 @@ This Shell Script will move folders/files to Google Cloud Storage...
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Shell Script](https://img.shields.io/badge/Shell-Bash-green.svg)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Ubuntu%20%7C%20CentOS%20%7C%20Debian-blue.svg)](#supported-platforms)
-[![Version](https://img.shields.io/badge/Version-3.0.0-brightgreen.svg)](#changelog)
+[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen.svg)](#changelog)
 
 > **Enterprise-grade GCS file transfer script. Built for speed, resiliency, and automation in production environments.**
 
